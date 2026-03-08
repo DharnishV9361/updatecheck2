@@ -1,4 +1,4 @@
-const API = "http://localhost:8080/api";
+const API =  "https://updatecheck-99fb.onrender.com/api/urls";
 
 async function loadUrls(){
 
