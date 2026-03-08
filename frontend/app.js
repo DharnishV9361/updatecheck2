@@ -1,4 +1,4 @@
-const API =  "https://updatecheck-99fb.onrender.com/api/urls";
+const API =  "https://updatecheck-99fb.onrender.com/api";
 
 async function loadUrls(){
 
