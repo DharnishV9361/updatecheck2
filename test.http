@@ -1,0 +1,7 @@
+POST http://localhost:8080/api/urls
+Content-Type: application/json
+
+{
+  "url": "https://www.website.com/",
+  "userId": 1
+}
