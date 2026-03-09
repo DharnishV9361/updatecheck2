@@ -1,8 +1,8 @@
-const API =  "https://updatecheck-99fb.onrender.com/api";
+const API =  "https://updatecheck-99fb.onrender.com/api/urls";
 
 async function loadUrls(){
 
-const res = await fetch(API + "/urls");
+const res = await fetch(API);
 
 const urls = await res.json();
 
